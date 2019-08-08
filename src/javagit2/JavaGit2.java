@@ -16,7 +16,8 @@ public class JavaGit2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola Mundo");
+        String mensaje = "Saludos";
+        System.out.println("Hola Mundo "+mensaje);
     }
     
 }
